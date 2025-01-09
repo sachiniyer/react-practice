@@ -2,8 +2,12 @@
 
 React Practice Exercises from reactpractice.dev
 
+### Approach
+1. First get React Knowledge
+2. Go back and style everything with Tailwind
+
 ### Exercises
-- [ ] [1](https://reactpractice.dev/exercise/create-a-timer-that-can-be-started-and-stopped/)
+- [x] [1](https://reactpractice.dev/exercise/create-a-timer-that-can-be-started-and-stopped/)
 - [ ] [2](https://reactpractice.dev/exercise/create-a-movie-search-page/)
 - [ ] [3](https://reactpractice.dev/exercise/create-a-simple-contact-book-app/)
 - [ ] [4](https://reactpractice.dev/exercise/create-a-custom-hook-that-allows-saving-items-to-the-local-storage/)
