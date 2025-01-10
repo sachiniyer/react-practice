@@ -10,7 +10,7 @@ React Practice Exercises from reactpractice.dev
 - [x] [1](https://reactpractice.dev/exercise/create-a-timer-that-can-be-started-and-stopped/)
 - [x] [2](https://reactpractice.dev/exercise/create-a-movie-search-page/)
 - [x] [3](https://reactpractice.dev/exercise/create-a-simple-contact-book-app/)
-- [ ] [4](https://reactpractice.dev/exercise/create-a-custom-hook-that-allows-saving-items-to-the-local-storage/)
+- [x] [4](https://reactpractice.dev/exercise/create-a-custom-hook-that-allows-saving-items-to-the-local-storage/)
 - [ ] [5](https://reactpractice.dev/exercise/build-a-simple-shopping-cart-using-react-query/)
 - [ ] [6](https://reactpractice.dev/exercise/build-a-button-using-test-driven-development/)
 - [ ] [7](https://reactpractice.dev/exercise/practice-react-by-fixing-tests-check-your-jsx-knowledge/)
