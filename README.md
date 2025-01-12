@@ -14,7 +14,7 @@ I also rewrote most of the exercises in NextJS with TypeScript instead of the de
 - [x] [3](https://reactpractice.dev/exercise/create-a-simple-contact-book-app/)
 - [x] [4](https://reactpractice.dev/exercise/create-a-custom-hook-that-allows-saving-items-to-the-local-storage/)
 - [x] [5](https://reactpractice.dev/exercise/build-a-simple-shopping-cart-using-react-query/)
-- [ ] [6](https://reactpractice.dev/exercise/build-a-button-using-test-driven-development/)
+- [x] [6](https://reactpractice.dev/exercise/build-a-button-using-test-driven-development/)
 - [ ] [7](https://reactpractice.dev/exercise/practice-react-by-fixing-tests-check-your-jsx-knowledge/)
 - [ ] [8](https://reactpractice.dev/exercise/build-a-paginated-pokemons-list-with-a-load-more-button-starting-from-failing-unit-tests/)
 - [ ] [9](https://reactpractice.dev/exercise/add-persistence-to-local-storage-for-an-existing-app/)
