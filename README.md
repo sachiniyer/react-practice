@@ -2,16 +2,18 @@
 
 React Practice Exercises from reactpractice.dev
 
+I also rewrote most of the exercises in NextJS with TypeScript instead of the default plain react from the exercises
+
 ### Approach
-1. First get React Knowledge
-2. Go back and style everything with Tailwind
+1. Do all the react stuff without styling
+2. Go back and style everything with Tailwind (and try to make it look pretty)
 
 ### Exercises
 - [x] [1](https://reactpractice.dev/exercise/create-a-timer-that-can-be-started-and-stopped/)
 - [x] [2](https://reactpractice.dev/exercise/create-a-movie-search-page/)
 - [x] [3](https://reactpractice.dev/exercise/create-a-simple-contact-book-app/)
 - [x] [4](https://reactpractice.dev/exercise/create-a-custom-hook-that-allows-saving-items-to-the-local-storage/)
-- [ ] [5](https://reactpractice.dev/exercise/build-a-simple-shopping-cart-using-react-query/)
+- [x] [5](https://reactpractice.dev/exercise/build-a-simple-shopping-cart-using-react-query/)
 - [ ] [6](https://reactpractice.dev/exercise/build-a-button-using-test-driven-development/)
 - [ ] [7](https://reactpractice.dev/exercise/practice-react-by-fixing-tests-check-your-jsx-knowledge/)
 - [ ] [8](https://reactpractice.dev/exercise/build-a-paginated-pokemons-list-with-a-load-more-button-starting-from-failing-unit-tests/)
