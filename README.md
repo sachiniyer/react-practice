@@ -21,7 +21,7 @@ I also rewrote most of the exercises in NextJS with TypeScript instead of the de
 - [x] [10](https://reactpractice.dev/exercise/build-an-accordion-component/)
 - [x] [11](https://reactpractice.dev/exercise/build-a-memory-game/)
 - [ ] ~[12](https://reactpractice.dev/exercise/build-a-notes-app-with-react-query-and-json-server/)~ - Skipping for now (have integrated with a few APIs already)
-- [ ] [13](https://reactpractice.dev/exercise/build-a-drag-and-drop-to-do-list/)
+- [x] [13](https://reactpractice.dev/exercise/build-a-drag-and-drop-to-do-list/)
 - [ ] [14](https://reactpractice.dev/exercise/show-top-10-articles-from-hacker-news/)
 - [ ] [15](https://reactpractice.dev/exercise/build-a-typewriter-effect-component/)
 - [ ] [16](https://reactpractice.dev/exercise/build-an-infinite-scrolling-list-of-pokemons/)
