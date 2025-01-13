@@ -24,7 +24,7 @@ I also rewrote most of the exercises in NextJS with TypeScript instead of the de
 - [x] [13](https://reactpractice.dev/exercise/build-a-drag-and-drop-to-do-list/)
 - [ ] ~[14](https://reactpractice.dev/exercise/show-top-10-articles-from-hacker-news/)~ - Skipping for now (already know how to integrate with APIs)
 - [x] [15](https://reactpractice.dev/exercise/build-a-typewriter-effect-component/)
-- [ ] [16](https://reactpractice.dev/exercise/build-an-infinite-scrolling-list-of-pokemons/)
+- [x] [16](https://reactpractice.dev/exercise/build-an-infinite-scrolling-list-of-pokemons/)
 - [ ] [17](https://reactpractice.dev/exercise/build-the-github-issue-filter-component/)
 - [ ] [18](https://reactpractice.dev/exercise/build-a-simple-auth-app-with-supabase/)
 - [ ] [19](https://reactpractice.dev/exercise/build-a-public-holidays-app/)
