@@ -19,7 +19,7 @@ I also rewrote most of the exercises in NextJS with TypeScript instead of the de
 - [x] [8](https://reactpractice.dev/exercise/build-a-paginated-pokemons-list-with-a-load-more-button-starting-from-failing-unit-tests/)
 - [x] [9](https://reactpractice.dev/exercise/add-persistence-to-local-storage-for-an-existing-app/)
 - [x] [10](https://reactpractice.dev/exercise/build-an-accordion-component/)
-- [ ] [11](https://reactpractice.dev/exercise/build-a-memory-game/)
+- [x] [11](https://reactpractice.dev/exercise/build-a-memory-game/)
 - [ ] [12](https://reactpractice.dev/exercise/build-a-notes-app-with-react-query-and-json-server/)
 - [ ] [13](https://reactpractice.dev/exercise/build-a-drag-and-drop-to-do-list/)
 - [ ] [14](https://reactpractice.dev/exercise/show-top-10-articles-from-hacker-news/)
