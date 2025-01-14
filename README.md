@@ -1,5 +1,7 @@
 # React Practice
 
+_this stopped being useful, so putting on pause for now_
+
 React Practice Exercises from reactpractice.dev
 
 I also rewrote most of the exercises in NextJS with TypeScript instead of the default plain react from the exercises
